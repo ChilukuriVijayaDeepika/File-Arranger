@@ -16,3 +16,6 @@ To make this task easier, in our project we resolve this problem using GUI inter
 
 
 2.Then click the submit button and check the selected folder.
+
+
+3.We will find that folder is neatly arranged.
