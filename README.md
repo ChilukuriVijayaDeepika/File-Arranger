@@ -1,4 +1,4 @@
-***** File Arranger *****
+***** FILE ARRANGER *****
 
 
 Generally we download different type of files from the web like audio, videos, images, documents, etc. When the number of files increases, it makes the download folder messy. To solve this issue, first we need to create separate folders for different files manually. Then video files need to be placed in a folder named Video, audio files need to move to the Audio folder, photos to the Picture folder, and so on.
@@ -9,7 +9,8 @@ To make this task easier, in our project we resolve this problem using GUI inter
 
 
 
-***** Steps *****
+
+***** STEPS *****
 
 
 1.Select particular folder that you want to arrange
