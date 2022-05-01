@@ -10,5 +10,9 @@ To make this task easier, in our project we resolve this problem using GUI inter
 
 
 ***** Steps *****
+
+
 1.Select particular folder that you want to arrange
+
+
 2.Then click the submit button and check the selected folder.
